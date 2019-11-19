@@ -1,6 +1,5 @@
 # CSV_file_extractor
 This helps in seperating the data of similar type from a CSV (Comma Seperated Values) file and store the data in a text file. <br>
-This is created using python 3.7
 
 ## How to use
 1. First you need to clone the repository in your local system. To do this just open your terminal and type -<br> 
